@@ -9,4 +9,8 @@
 ## Update 1.1:
 
 - In regards to [my Resume page](https://github.com/g2vn/html-resume), extended functionality has been added to go back to the Home page through links.
-- Did the same thing as above, but for all child webpages
+- Did the same thing as above, but for all child webpages.
+- 
+### Update 1.1.1:
+
+- Updated index.html to include [my Resume page](https://github.com/g2vn/html-resume).
